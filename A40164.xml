@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A distinction between true liberty and false</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40164</idno><idno type="EEBO-CITATION">10325409</idno>
+  <idno type="VID">44850</idno>
+  <idno type="EEBO-PROQUEST">2240949055</idno>
+  
+            <idno type="STC">Wing F1797</idno>
+            <idno type="STC">ESTC R27998</idno>
+            <idno type="OCLC">10325409</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44850)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A distinction between true liberty and false</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: G.F.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conduct of life.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:44850:1"/>
+            <pb n="1" facs="tcp:44850:1"/>
+            <head>A DISTINCTION Between True Liberty and False.</head>
+            <p>GOD pouring out of his Spirit on all flesh, both on Sons and Daughters, Handmaids and Servants, &amp;c. all are to walk in the liberty of this holy, pure, peaceable, gentle spirit of God, that keeps in hu<g ref="char:EOLhyphen"/>mility and in tenderness and kindness, and leads into righteousness, godliness and holiness, and into modesty, sobriety, virtue and chastity, and into things that be of a good report. In this holy spirit of God is the pure holy liberty, the fruits of which is love and peace, &amp;c. And this holy pure Spirit of God leads out of strife contention, hatred, malice and envy, and all unrighteousness, and ungodliness, and false liber<g ref="char:EOLhyphen"/>ty of the will and the flesh, and the inordinate and loose affections that are below. And if the will and the flesh and inordinate affections have not its loose liberty, they set the whole course of nature on fire with the unruly
+<pb n="2" facs="tcp:44850:2"/>will and tongue which is to be limited, kept down and mortified with the holy Spirit of God, in which spirit is the unity kept, which is the bond of Peace, in the Church of Christ among all true Christians, that are called the <hi>Houshold of Faith,</hi> and <hi>of the Son of God,</hi> who is over his house.</p>
+            <p>And the holy, divine, pure and precious Faith, which is the victory, and purifies the heart, Christ is the Au<g ref="char:EOLhyphen"/>ther and Finisher of; and the mystery of this Faith is held in a pure conscience; by which Faith all the Faith<g ref="char:EOLhyphen"/>full have access to God, and in it do please God. And in this Faith all the Houshold of God have unity and li<g ref="char:EOLhyphen"/>berty, who are called the <hi>Houshold of Faith.</hi> Now this pure holy Spirit of God he pours upon all flesh, and the holy divine Faith cannot admit nor joyn to any loose or false liberty, to the will of the flesh, or inordinate affections, or to that which is immodest, or not vertu<g ref="char:EOLhyphen"/>ous, or unchast or uncivill, or of an evill report, or to any thing that is unreasonable, or unjust, or ungodly: for such things are to be mortified by the holy Spirit of God, which the unity and liberty is in; And the holy divine Faith purifies Gods people from such things, and gives victory over them, which Faith works by love: And the pure Conscience hath its liberty, which it is held in, and in it all the faithfull are in unity in which they know they please God; and this is the faith of Gods Elect, by which the Just do live, which gives them victory over the Devil and his works, and that which is unjust and unrighteous, and purifies the hearts of such as be defiled by it from that which defiles it. And Christ Jesus enlightens every man that comes into the world, which Light is the Life in Christ the Word, by whom all things were made: And the Grace of God,
+<pb n="3" facs="tcp:44850:2"/>which brings salvation hath appeared to all men: Novv in this Light and Life of Christ, and in this Grace of God, which brings salvation, is the true liberty, and brings to stand fast in the true <hi>liberty</hi> in Christ the Light and Life, who makes them free, from all bondages and false liberties: for all liberties, out of the Spirit of Grace and Light and Life of Christ, are bondages: for Light cannot have unity with the spirit of darkness, the works of darkness: And the Light of Christ gives both under<g ref="char:EOLhyphen"/>standing and knowledg of all false liberties out of Christ Jesus, and cannot joyn with them in those liberties which are out of the Light and Grace of Christ, no more now then the Apostles and Church in the primitive times could with such in their days. The Jews who op<g ref="char:EOLhyphen"/>posed <hi>Moses</hi> and the Prophets in their Ages, and spake against them, who were great professers of the Scriptures, did not come into the unity and liberty of the holy Ghost the Prophets were in: The holy Prophets of God were subiect one to another in the spirit of God; but the professing Jews that erred from the spirit, and rebel<g ref="char:EOLhyphen"/>led against it, were not subject to the spirit of the Pro<g ref="char:EOLhyphen"/>phets and so were neither in the liberty nor unity in the spirit of God. And when Christ came who was conceived by the holy Ghost, &amp;c. And holy Men of God who spake forth Scriptures, as moved by the holy Ghost; The Jews who professed all these scriptures, that were given forth from the holy Ghost, opposed Christ and the holy men, and resisted the holy Ghost, these did not come into the Liberty of Christ Jesus, and the Liberty or Communion of the holy Ghost; And all those in the Apostles days, that made an outward profession of Christianity, which the Apostles and the Churches were troubled withall, and some of the seven Churches were troubled with also,
+<pb n="4" facs="tcp:44850:3"/>which were as raging waves of the sea, which foamed out their own shame, and casting up their mire and dirt, in <hi>Cain</hi>'s way of envy, <hi>Core</hi>'s way of gainsaying, and in the error of <hi>Balaam,</hi> from the spirit of God; wells without the water of life, trees without holy fruit, twice dead, dead in <hi>Adam,</hi> and made alive, dead again, and plucked up by the roots, that cannot grow in the life of Christ, and are become synagogues of Satan, puf<g ref="char:EOLhyphen"/>fed up with high swelling words of vanity, and have fair words, and good speeches, but wandring starrs, from the firmament of Gods power, not fit for the innocent to stear by, to the heavenly <hi>Jerusalem,</hi> no more then the outward Marriners to stear their course by the outward wandring stars to an out<g ref="char:EOLhyphen"/>ward Port: And such as the Apostle calls fierce despisers of them that are good, incontiment covenant-breakers, having a form of Godliness, but <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the power thereof, which were and are to be turned away from. Though such as these before mentioned in the Apostles days, and now, may profess liberty for a cloak, to cloak their evil spirit, and its fruits; yet all such Ac<g ref="char:EOLhyphen"/>tions are not according to Christ, and the grace of God; for the grace of God has no union with fierce dispisers of them that are good, nor with such as are puffed up with high swelling words of vanity. And though they have good words and fair speeches, and an out<g ref="char:EOLhyphen"/>ward form of Godliness, yet deny the power thereof, and so deny the free liberty in the power of God, and so the liberty in Christ Jesus, and so the liberty in his grace and light, which is a gracious liberty, that brings people into favour with God. And the Apostles of the true Churches, did withstand all loose &amp; false spirits, and had no unity nor followship with them of <hi>Cain</hi>'s, <hi>Cora</hi>'s,
+<pb n="5" facs="tcp:44850:3"/>
+               <hi>Balaam</hi>'s, trees without fruit, wandring stars, wells without water; raging waves of the Sea, casting up mire and dirt, as they do now against the righteous. Such as bore these fruits their liberty is not in the spirit of Grace, nor in the light and life of Christ. And such the Church of Christ in the Apostles days, and now have not unity with, neither can they joyn with them in uni<g ref="char:EOLhyphen"/>ty &amp; liberty, that are not in the spirit of grace, light and life in Christ Jesus in which all true liberty is, in Christ the Truth that makes them free.</p>
+            <p>And that spirit that leavens people into malice, hatred, envy, evil furmising, false jealousies, &amp; into rage, &amp; the root of bitterness and into disputings &amp; janglings, and whose words eat like a Kanker, &amp; they who make a pro<g ref="char:EOLhyphen"/>fession in words of the Truth, &amp; live not peaceable and walk not in Christ, but are puffed up with many idle notions &amp; vain conceits; such fruits are not from the spirit of grace, light and life of Christ; nor in true faith, which works by love, in which true unity is, &amp; liberty, &amp; love that bears all things, love that doth not envy, and is not puffed up. For they that profess Knowledg and Faith, and want this love of God, they were called as tinkling Cymbals, and sounding brass, in the Apostles days, and so they are now. And Gods people cannot set up a tinkling Cymbal and sounding brass for the life of righteousness and Truth; though a tinkling Cym<g ref="char:EOLhyphen"/>bal and sounding brass may deceive the simple, and such may devour them. But it's love that unites all the members of Christ together, to him the head; in which love they are built up together a spiritual houshold. And the wisdom that's pure and peaceable, gentle and easie to be intreated, this is from above: But the wisdom that is from below is earthly sensual
+<pb n="6" facs="tcp:44850:4"/>and devillish; and men that are in this wisdom, and pretends knowledg and faith, without the love of God, and are incontiment, fierce, despisers of those that are good with their fair words and good speeches, and pufft up with high swelling words of vanity, vain Dis<g ref="char:EOLhyphen"/>putes, Janglers, <hi>in a form of Godliness, but out of the power,</hi> with such the Church of Christ had never unity: And that liberty of those fruits is not in the Spirit of Grace and Light and Life of Christ; and by their Fruits such were, and are known to them whose liberty and unity is in the Light and Grace which is in Christ Jesus; and in the Grace of God that hath appeared to all men, and in his Spirit which he hath poured on all Flesh, the light which is the life in Christ which enligh<g ref="char:EOLhyphen"/>tens every man that comes into the world, all men and women are to have their Liberty in Christ Jesus, in which they all have unity, and an everlasting liberty and unity, and fellowship in the everlasting Son of God, in Christ the Head, and in Christ the Head they are joy<g ref="char:EOLhyphen"/>ned together by his Light, Life &amp; Spirit of Grace: and all that walk contrary to the Light Life and Spirit of Grace, let them profess what they will, they are not in the true Liberty &amp; true Freedom, nor in the true Fel<g ref="char:EOLhyphen"/>lowship with the Father &amp; the Son, and his people: for the true liberty &amp; unity is in the Spirit, Light &amp; Life of Christ, to which all men and women, from the first have been directed, that in it they may all live and walk in the true Freedom, Liberty and Unity and Fellowship with the Father and the Son, and one with another. And the true Freedom and liberty is in the Gospel, <hi>in the glorious Gospel of Life, Peace and Salvation;</hi> which Gospel is the <hi>Power of God, preached to, and in every crea<g ref="char:EOLhyphen"/>ture under Heaven;</hi> and every ones conversation must
+<pb n="7" facs="tcp:44850:4"/>be according to this glorious Gospel of Life, Peace and Salvation: For they who order their Conversation aright by the Gospel, do see and receive this Gospel of peace, life and salvation. And in this Gospel, the Power of God, is the true glorious, peaceable freedom and liberty in the life and salvation in Christ Jesus: And all that do profess the Gospel of Christ the Power of God in words, and do not live and walk in the Gospel the Power of God, they are in bondage under the pow<g ref="char:EOLhyphen"/>er of darkness, and are out of the peaceable free liberty of the glorious Gospel of life and salvation, like the raging waves of the Sea, casting up mire and dirt, as I said before, and in their vain Janglings and Dispu<g ref="char:EOLhyphen"/>tings and false Jealousies, Murmurings and Complain<g ref="char:EOLhyphen"/>ings, Revilings, Railings, Defamings, Unstablished, and to every good work and service of God reprobate. And from such spirits &amp; leaven God Almighty keep &amp; preserve his people in his Light, Truth, and Spirit of Grace and holy Faith in Christ Jesus, who is the holy and heavenly Rock and Foundation, in him they have life and peace vvith God, &amp; are in the holy Liber<g ref="char:EOLhyphen"/>ty and Freedom: And in him, namely in Christ Jesus, my desire is, that all his true and faithfull Follovvers may stand fast, in their holy and pure liberty, in him vvho is holy and pure, vvho vvas <hi>First,</hi> and is <hi>Last,</hi> and novv is the Rest of his people, the <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>London <date>the <hi>12th</hi> of the <hi>8th</hi> month, <hi>1685</hi>
+                  </date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
